@@ -38,6 +38,4 @@ java -jar target/cms-project-1.0.0.jar
 
 ## 说明
 
-这是一个示例项目骨架，包含基本依赖和初始配置。我会逐步向你添加实体、Repository、Service、Controller、Security 等模块。
-
-如果你希望我把示例代码（实体、Repository 等）全量写入仓库，请回复「写入代码」。
+这是一个示例项目骨架，包含基本依赖和初始配置。
